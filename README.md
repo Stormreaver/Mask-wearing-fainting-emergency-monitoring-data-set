@@ -8,3 +8,4 @@ mixjpg为原始的数据图片库
 mixjpgtest为物体识别模型 标注后的数据图片库
 
 已部署在华为云测试成功，期待您的大作投放到公共场所、监控后台为人民服务。
+![](Mask-wearing-fainting-emergency-monitoring-data-set/地铁未戴口罩.jpg)
